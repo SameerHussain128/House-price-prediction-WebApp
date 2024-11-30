@@ -10,7 +10,21 @@ Integrate a trained machine learning model (Random Forest Regressor) for real-ti
 Provide a clean and visually appealing design, along with links to my professional profiles (LinkedIn and GitHub).
 
 ## 📝 Description
-This project is a web-based house price prediction application where users can input features such as the living area, number of bedrooms, bathrooms, kitchen quality, and overall condition of the house. The app predicts the price of the house based on a machine learning model trained on historical housing data.
+This project is a web-based house price prediction application where users can input features such as the living area, number of bedrooms, bathrooms, kitchen quality, and overall condition of the house. The app predicts the price of the house based on a machine learning model trained on historical housing data
+
+## 📸 **Screenshots**
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Input Form
+![Input Form](screenshots/input.png)
+
+### Prediction Result
+![Prediction Result](screenshots/predicted.png)
+
+### Streamlit Result
+![Streamlit Result](screenshots/streamlit.png)
+
 
 ## Key Features:
 * User-friendly form to collect house details.
@@ -18,22 +32,12 @@ This project is a web-based house price prediction application where users can i
 * Aesthetic design with a gradient background and intuitive layout.
 * Links to my LinkedIn and GitHub profiles for professional networking.
 
-## 💡 Why This Project?
-I chose this project because the real estate industry is a dynamic and data-driven field. Predicting house prices accurately can help both buyers and sellers make better decisions. By using machine learning to predict house prices based on multiple features, I gained valuable experience in data preprocessing, model development, and web app deployment. Additionally, deploying the project as a web app provided me with hands-on experience in building interactive applications with Flask.
-
-
 ## 🌟 Results
 The web application successfully predicts house prices based on user-provided inputs. The predictions are displayed in a clean and professional output format, ensuring usability for potential users.
 
-## 📸 **Screenshots**
-### Home Page
-![Home Page](static/home.png)
+## 💡 Why This Project?
+I chose this project because the real estate industry is a dynamic and data-driven field. Predicting house prices accurately can help both buyers and sellers make better decisions. By using machine learning to predict house prices based on multiple features, I gained valuable experience in data preprocessing, model development, and web app deployment. Additionally, deploying the project as a web app provided me with hands-on experience in building interactive applications with Flask.
 
-### Input Form
-![Input Form](static/input.png)
-
-### Prediction Result
-![Prediction Result](static/predicted.png)
 
 ## 🛠️ Technologies Used
 * Backend: Flask, Python
